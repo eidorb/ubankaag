@@ -1,0 +1,9 @@
+[project]
+name = "ubankaag"
+version = "0.1.0"
+description = "ubank@ag - ubank at a glance"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+authors = [{name = "eidorb", email = "brodieface@gmail.com"}]
+license = {file = "LICENSE"}
